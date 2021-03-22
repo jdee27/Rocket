@@ -1,2 +1,0 @@
-# Rocket
-js-rocket launch
